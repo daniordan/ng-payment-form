@@ -1,5 +1,7 @@
 # PaymentForm Angular App
 
+Simple one-page design that features a payment form in which user can input some basic payment information.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Prerequisites
